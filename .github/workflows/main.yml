@@ -13,7 +13,7 @@ on:
   workflow_dispatch
     
 env:
-  ROM_URL: https://xn--4gq62f52gdss.com/api/v1/client/subscribe?token=476e88f53a24bd1c638df2e637ee851d
+  ROM_URL: https://sysupdxdl.vivo.com.cn/upgrade/recovery/recoveryFiles/202212310120448825b991c688ef31de8c234be5d6f8ba.zip?sign=db41d2fbdf488d128c07130a76b0700f&t=63f44d3c
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
